@@ -50,27 +50,6 @@ Backend
 
 🔒 bcryptjs – Secure password hashing.
 
-📂 Project Structure
-bash
-Copy
-Edit
-hostelshare/
-├── client/                 # React frontend
-│   ├── src/
-│   │   ├── components/     # UI components
-│   │   ├── services/       # API services
-│   │   └── ...
-│   ├── package.json
-│   └── vite.config.js
-├── server/                 # Express backend
-│   ├── controllers/        # Route logic
-│   ├── models/             # MongoDB schemas
-│   ├── routes/             # API endpoints
-│   ├── middlewares/        # Auth & validation
-│   ├── uploads/            # QR code images
-│   ├── package.json
-│   └── server.js
-└── package.json            # Root package.json
 ⚡ Getting Started
 Prerequisites
 Node.js v16+
