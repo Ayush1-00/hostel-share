@@ -128,9 +128,8 @@ This project is licensed under the MIT License – see LICENSE for details.
 
 DEMO ->
 <img width="1605" height="901" alt="image" src="https://github.com/user-attachments/assets/280b0ce6-1a48-4704-9037-8e0f89afe649" />
-<img width="1605" height="901" alt="image" src="https://github.com/user-attachments/assets/5e6625c9-1dd3-4d58-8a24-02bae0e6a437" />
-
-
+<img width="1660" height="664" alt="image" src="https://github.com/user-attachments/assets/d2ccc82e-62f3-460d-a9fc-0fae5563015d" />
+<img width="1668" height="867" alt="image" src="https://github.com/user-attachments/assets/57b36a68-c682-4f8e-b56c-e0a0f2b5f86c" />
 
 📬 Support
 💌 Email: khandelwalshivam2004@gmail.com
