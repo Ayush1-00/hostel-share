@@ -59,29 +59,19 @@ MongoDB Atlas or local MongoDB
 npm or yarn
 
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
 git clone <repository-url>
 cd hostelshare
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 npm run install-all
 3️⃣ Environment Setup
 Create .env in the server/ directory:
 
 env
-Copy
-Edit
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 PORT=3000
 4️⃣ Start Development Servers
-bash
-Copy
-Edit
 npm run dev
 Backend → http://localhost:3000
 
@@ -124,21 +114,12 @@ Fork the repository.
 
 Create a feature branch:
 
-bash
-Copy
-Edit
 git checkout -b feature/amazing-feature
 Commit changes:
 
-bash
-Copy
-Edit
 git commit -m "Add some amazing feature"
 Push to your branch:
 
-bash
-Copy
-Edit
 git push origin feature/amazing-feature
 Open a Pull Request.
 
@@ -146,5 +127,7 @@ Open a Pull Request.
 This project is licensed under the MIT License – see LICENSE for details.
 
 📬 Support
-💌 Email: your-email@example.com
+💌 Email: khandelwalshivam2004@gmail.com
 🐛 Create an issue in the repository for bug reports & feature requests.
+
+
