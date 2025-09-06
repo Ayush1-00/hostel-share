@@ -1,5 +1,5 @@
 // const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
-const API_BASE_URL = 'https://hostel-share.onrender.com/api';
+const API_BASE_URL = 'https://hostel-share-0.onrender.com/api';
 class ApiService {
   async request(endpoint, options = {}) {
     const url = `${API_BASE_URL}${endpoint}`;
